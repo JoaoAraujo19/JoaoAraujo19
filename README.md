@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem Vindo
 ## Sobre Mim
 <p> Sou João Vitor Araujo, entusiasta de tecnologia, ex-atleta federado de basquete no RJ e apaixonado por desafios. Atualmente, me dedico a projetos que unem dados, sistemas inteligentes e criatividade. Já explorei algoritmos como o Apriori em laboratórios virtuais e estou sempre buscando aprender mais. Entre códigos, ideias e batidas Boom Bap, sigo construindo com dedicação e originalidade.</p>
 
